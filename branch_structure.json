@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/breadcrumb-transitions",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/breadcrumb-transitions": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/breadcrumb-transitions",
+    "origin"
+  ]
+}
